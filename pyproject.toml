@@ -1,0 +1,7 @@
+[project]
+name = "orm_avanzado"
+version = "0.1.0"
+description = "Un ORM avanzado para interactuar con cualquier base de datos."
+dependencies = [
+    "sqlalchemy>=2.0"
+]
